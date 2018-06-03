@@ -1,4 +1,4 @@
-# grunt-js-copy v0.1.1
+# grunt-js-copy v0.1.1 [![Build Status](https://travis-ci.org/afuscella/grunt-js-copy.svg?branch=master)](https://travis-ci.org/afuscella/grunt-js-copy)
 
 > Create directories with Grunt (based on grunt-mkdir)
 
