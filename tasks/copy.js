@@ -122,7 +122,6 @@ module.exports = function (grunt) {
           src = unixifyPath(isExpanded ? src : path.join(file.orig.cwd, src));
 
           while (grunt.util._.endsWith(file.orig.cwd, '/')) {
-            console.log(file.orig.cwd);
             file.orig.cwd = adjustDirPath(file.orig.cwd);
           }
           // Proceed in case the object being a directory

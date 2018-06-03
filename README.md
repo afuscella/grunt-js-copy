@@ -1,4 +1,4 @@
-# grunt-js-copy v0.1.1 [![Build Status](https://travis-ci.org/afuscella/grunt-js-copy.svg?branch=master)](https://travis-ci.org/afuscella/grunt-js-copy) [![NPM Version](http://img.shields.io/npm/v/grunt-js-copy.svg?style=flat)](https://www.npmjs.org/package/grunt-js-copy)
+# grunt-js-copy v0.1.2 [![Build Status](https://travis-ci.org/afuscella/grunt-js-copy.svg?branch=master)](https://travis-ci.org/afuscella/grunt-js-copy) [![NPM Version](http://img.shields.io/npm/v/grunt-js-copy.svg?style=flat)](https://www.npmjs.org/package/grunt-js-copy)
 
 > Create directories with Grunt (based on grunt-mkdir)
 
@@ -157,4 +157,4 @@ grunt.initConfig({
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-* 2018-06-03  v0.1.1  First official release for Grunt 0.4.0.
+* 2018-06-03  v0.1.2  First official release for Grunt 0.4.0.
